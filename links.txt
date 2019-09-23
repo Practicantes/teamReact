@@ -1,0 +1,6 @@
+                                                                           documentaciòn
+♦https://www.youtube.com/watch?v=H7qkTzxk_0I      ------Ejemplo de como trabajar con Node/Express/Postgress
+♦https://github.com/w3cj/users-stickers-CRUD            ------Ejemplo de trabjo en Github
+♦https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7                   -------Explicacion de como crear una relacion entre express y postgress
+♦https://www.youtube.com/watch?v=s_PlIZs8CPE       ------Explicacion con la consola del ordenador
+
